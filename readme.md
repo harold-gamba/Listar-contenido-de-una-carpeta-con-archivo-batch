@@ -30,7 +30,7 @@ Windows Registry Editor Version 5.00
 
 y lo que hace es crear dentro del **shell** de la carpeta da el nombre contenido de la carpeta y va y busca el archivo **list.bat** que esta dentro de la carpeta de Windows, de esta forma no va a imprimir lo que esta en la carpeta **Windows** sino lo que esta en la carpeta que elijamos con el clic derecho del mouse. 
 
-Guardamos y le damos el nombre contenido de **carpeta.reg**
+Guardamos y le damos el nombre: **carpeta.reg**
 
 ![](images/2022-07-29-18-27-02-image.png)
 
