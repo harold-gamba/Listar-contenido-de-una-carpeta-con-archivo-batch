@@ -25,7 +25,7 @@ para ello creamos un archivo de registro **.reg** con el siguiente código
 Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Contenido de la carpeta]
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Contenido de la carpeta\Command]
-@="C:\\windows\\list1.bat"
+@="C:\\windows\\list.bat"
 ```
 
 y lo que hace es crear dentro del **shell** de la carpeta da el nombre contenido de la carpeta y va y busca el archivo **list.bat** que esta dentro de la carpeta de Windows, de esta forma no va a imprimir lo que esta en la carpeta **Windows** sino lo que esta en la carpeta que elijamos con el clic derecho del mouse. 
